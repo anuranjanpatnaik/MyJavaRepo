@@ -14,3 +14,6 @@
 #then run the compiled programs using the java command.  For example:
 
 #                  java HelloWorld
+For GUI programs, which use JavaFX, you will have to add command-line options to
+the javac and java commands, as discussed in Section 2.6 of the textbook,
+but the basic idea is the same.
